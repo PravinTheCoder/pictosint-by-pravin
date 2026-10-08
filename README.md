@@ -1,6 +1,21 @@
 Open-source image geolocation and satellite verification tool using visual landmark analysis, OCR, geocoding and satellite imagery.
 # PICTOSINT by Pravin
+BANNER = r"""
+██████╗ ██╗ ██████╗████████╗ ██████╗ ███████╗██╗███╗   ██╗████████╗
+██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
+██████╔╝██║██║        ██║   ██║   ██║███████╗██║██╔██╗ ██║   ██║
+██╔═══╝ ██║██║        ██║   ██║   ██║╚════██║██║██║╚██╗██║   ██║
+██║     ██║╚██████╗   ██║    ╚████╔╝ ███████║██║██║ ╚████║   ██║
+╚═╝     ╚═╝ ╚═════╝   ╚═╝    ╚════╝  ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
+                         by pravinthehacker
 
+PICTOSINT by Pravin — independent GEO + SATELLITE ENGINE
+
+FOLLOW US ON LINKEDIN BELOW !
+USER_LINK = "https://www.linkedin.com/in/pravin-s-575102252"
+PROJECT = "https://github.com/PravinTheCoder/pictosint-by-pravin"
+
+"""
 <p align="center">
 
 **Image Geolocation & Satellite Verification Engine**
