@@ -9,6 +9,24 @@ Open-source image geolocation and satellite verification tool using visual landm
 ██║     ██║╚██████╗   ██║   ╚ ████ ╔╝ ███████║ ██║ ██║ ╚████║   ██║
 ╚═╝     ╚═╝ ╚═════╝   ╚═╝     ╚════╝  ╚══════╝ ╚═╝ ╚═╝  ╚═══╝   ╚═╝
                          by pravinthehacker
+
+
+
+```
+<div>
+<p>
+  <a href="https://github.com/PravinTheCoder/pictosint-by-pravin">
+    <img src="https://img.shields.io/badge/GitHub-PICTOSINT-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/PravinTheCoder/pictosint-by-pravin/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/pravin-s-575102252">
+    <img src="https://img.shields.io/badge/LinkedIn-Pravin_S-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+</div>
 <p align="center">
 
 **Image Geolocation & Satellite Verification Engine**
