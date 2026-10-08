@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PICTOSINT generated case data
+pictosint-case-*/
+cases/
+output/
+*.cache
+
+# Local secrets/config
+.env
+*.local
+
+# Logs
+*.log
