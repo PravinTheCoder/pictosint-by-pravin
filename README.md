@@ -110,6 +110,28 @@ Satellite imagery can be used to manually compare:
 - Terrain
 - Other geographic structures
 
+Example
+
+PICTOSINT by Pravin
+
+Image: taj.jpeg
+Visual analysis
+
+    a photograph of the Taj Mahal in Agra India: 99.84%
+    a photograph of India Gate in New Delhi India: 0.11%
+    an ordinary street in Agra India: 0.04%
+    a photograph of Charminar in Hyderabad India: 0.01%
+    a photograph of the Gateway of India in Mumbai India: 0.00%
+    a photograph of Chennai Central Railway Station in Chennai India: 0.00%
+
+Satellite candidates
+#1 Taj Mahal, Agra, Uttar Pradesh, India
+
+27.175144, 78.042142 — CLIP visual landmark match
+<img width="768" height="768" alt="candidate_01" src="https://github.com/user-attachments/assets/7dbcfe7a-3461-41c0-9f92-79b7ab48f533" />
+
+
+
 ---
 
 ### Reports
