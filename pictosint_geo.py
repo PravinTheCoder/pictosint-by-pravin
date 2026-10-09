@@ -25,16 +25,21 @@ except ImportError:
 
 from pyfiglet import Figlet
 
-BANNER = f"""
-{Figlet(font="slant").renderText("PICTOSINT")}
-              by pravinthehacker
+BANNER = r"""
+██████╗ ██╗ ██████╗████████╗ ██████╗ ███████╗██╗███╗   ██╗████████╗
+██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
+██████╔╝██║██║         ██║   ██║   ██║ ███████╗██║██╔██╗ ██║   ██║
+██╔═══╝ ██║██║         ██║   ██║   ██║ ╚════██║██║██║╚██╗██║   ██║
+██║      ██║╚██████╗   ██║   ╚██████╔╝ ███████║██║██║ ╚████║   ██║
+╚═╝      ╚═╝ ╚═════╝   ╚═╝    ╚═════╝   ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
+
+                 by pravinthehacker
 
        PICTOSINT - GEO + SATELLITE ENGINE
-       
-    LinkedIn: linkedin.com/in/pravin-s-575102252
-    GitHub:   github.com/PravinTheCoder
+
+       LinkedIn: linkedin.com/in/pravin-s-575102252
+         GitHub:   github.com/PravinTheCoder
 """
-print(BANNER)
      
 
 KNOWN = {
