@@ -23,22 +23,19 @@ except ImportError:
     print("[!] Install dependencies first: pip install -r requirements.txt")
     sys.exit(1)
 
-BANNER = r"""
-██████╗ ██╗ ██████╗████████╗ ██████╗ ███████╗██╗███╗   ██╗████████╗
-██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
-██████╔╝██║██║        ██║   ██║   ██║███████╗██║██╔██╗ ██║   ██║
-██╔═══╝ ██║██║        ██║   ██║   ██║╚════██║██║██║╚██╗██║   ██║
-██║     ██║╚██████╗   ██║    ╚████╔╝ ███████║██║██║ ╚████║   ██║
-╚═╝     ╚═╝ ╚═════╝   ╚═╝    ╚════╝  ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
-                         by pravinthehacker
+from pyfiglet import Figlet
 
-PICTOSINT by Pravin — independent GEO + SATELLITE ENGINE
+BANNER = f"""
+{Figlet(font="slant").renderText("PICTOSINT")}
+              by pravinthehacker
 
-FOLLOW US ON LINKEDIN BELOW !
-USER_LINK = "https://www.linkedin.com/in/pravin-s-575102252"
-PROJECT = "https://github.com/PravinTheCoder/pictosint-by-pravin"
-
+       PICTOSINT - GEO + SATELLITE ENGINE
+       
+    LinkedIn: linkedin.com/in/pravin-s-575102252
+    GitHub:   github.com/PravinTheCoder
 """
+print(BANNER)
+     
 
 KNOWN = {
     "Taj Mahal": ("Taj Mahal, Agra, Uttar Pradesh, India", 27.175144, 78.042142),
